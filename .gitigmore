@@ -1,0 +1,19 @@
+# Ignore sensitive PHP files
+Database.php
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+
+# Ignore node modules (for future use if needed)
+node_modules/
+
+# Ignore composer dependencies (for PHP projects)
+vendor/
+
+# Ignore backup files
+*.bak
+*.tmp
